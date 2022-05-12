@@ -1,6 +1,4 @@
-package task1.ElectricalAppliancesExceptions;
-
-import java.lang.Exception;
+package Exceptions;
 
 public class PowerException extends Exception {
     public PowerException(String errorMessage) {
